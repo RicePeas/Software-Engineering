@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intento Criminal</string>
+    <string name="crime_title_hint">Ingrese un título para el crimen</string>
+    <string name="crime_title_label">Título</string>
+    <string name="crime_details_label">Detalles</string>
+    <string name="crime_solved_label">El caso está resuelto</string>
+    <string name="solve_details_label">Detalles del Caso</string>
+    <string name="date_picker_title">Después del Caso</string>
+    <string name="new_crime">Nuevo Crimen</string>
+    <string name="active_crime">Delitos Activos</string>
+    <string name="archive_crime">Archiva un Crimen</string>
+    <string name="delete_crime">Eliminar el Registro</string>
+    <string name="export_csv">Expotar cvs</string>
+    <string name="show_subtitle">Mostrar subtítulos</string>
+    <string name="hide_subtitle">ocultar subtítulos</string>
+    <string name="show_archived">Mostrar delitos archivados</string>
+    <string name="show_active">Mostrar delitos activos</string>
+    <string name="sort_by">Ordenar</string>
+    <string name="subtitle_format">%1$d delitos activos</string>
+    <string name="archive_format">%1$d delitos archivados</string>
+    <string name="crime_suspect_text">Seleccionar Sospechoso</string>
+    <string name="crime_report_text">Enviar Informe de Delitos</string>
+    <string name="crime_report">%1$s!
+    犯罪已发生在 %2$s. %3$s. %4$s. %5$s
+  </string>
+    <string name="crime_report_solved">El caso está resuelto：</string>
+    <string name="crime_report_unsolved">El caso no está resuelto</string>
+    <string name="crime_report_no_suspect">No hay sospechoso</string>
+    <string name="crime_report_suspect">El sospechoso es %s</string>
+    <string name="crime_report_subject">Informe Sobre el Crimen de "Criminal Inent"</string>
+    <string name="send_report">Enviar informe por </string>
+</resources>
